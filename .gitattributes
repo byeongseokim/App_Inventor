@@ -1,2 +1,3 @@
 AppInventor/** linguist-documentation=false
 AppInventor/** linguist-vendored=false
+*.aia linguist-vendored=false
