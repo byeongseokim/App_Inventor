@@ -1,1 +1,3 @@
 *.aia linguist-language=Other
+*.aia linguist-vendored=false
+
